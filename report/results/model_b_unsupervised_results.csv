@@ -1,0 +1,5 @@
+Metric,Value
+Silhouette Score,0.03808494246476343
+Calinski-Harabasz Score,219.97736297622828
+Davies-Bouldin Score,4.837291266427427
+Training Time (sec),4.944432735443115
